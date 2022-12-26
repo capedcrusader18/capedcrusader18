@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @capedcrusader18
 - 👀 I’m interested in web/development and design
-- 🌱 I’m currently learning javascript
-
+- 🌱 I’m currently learning NodeJs
 - 📫 Reach me at - aditya1897@outlook.com
 
 <!---
