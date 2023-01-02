@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @capedcrusader18
-- 👀 I’m interested in web/development and design
-- 🌱 I’m currently learning NodeJs
+- 👀 I’m interested in development and engineering
+- 🌱 I’m currently learning NodeJs with MongoDB
 - 📫 Reach me at - aditya1897@outlook.com
 
 <!---
